@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anshul2807/calenderBooking_reactjs.git/static/css/main.1aab20a0.chunk.css",
+    "main.js": "/anshul2807/calenderBooking_reactjs.git/static/js/main.49989e6a.chunk.js",
+    "main.js.map": "/anshul2807/calenderBooking_reactjs.git/static/js/main.49989e6a.chunk.js.map",
+    "runtime-main.js": "/anshul2807/calenderBooking_reactjs.git/static/js/runtime-main.a4cba229.js",
+    "runtime-main.js.map": "/anshul2807/calenderBooking_reactjs.git/static/js/runtime-main.a4cba229.js.map",
+    "static/js/2.66b375ec.chunk.js": "/anshul2807/calenderBooking_reactjs.git/static/js/2.66b375ec.chunk.js",
+    "static/js/2.66b375ec.chunk.js.map": "/anshul2807/calenderBooking_reactjs.git/static/js/2.66b375ec.chunk.js.map",
+    "static/js/3.6e729b29.chunk.js": "/anshul2807/calenderBooking_reactjs.git/static/js/3.6e729b29.chunk.js",
+    "static/js/3.6e729b29.chunk.js.map": "/anshul2807/calenderBooking_reactjs.git/static/js/3.6e729b29.chunk.js.map",
+    "index.html": "/anshul2807/calenderBooking_reactjs.git/index.html",
+    "static/css/main.1aab20a0.chunk.css.map": "/anshul2807/calenderBooking_reactjs.git/static/css/main.1aab20a0.chunk.css.map",
+    "static/js/2.66b375ec.chunk.js.LICENSE.txt": "/anshul2807/calenderBooking_reactjs.git/static/js/2.66b375ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4cba229.js",
+    "static/js/2.66b375ec.chunk.js",
+    "static/css/main.1aab20a0.chunk.css",
+    "static/js/main.49989e6a.chunk.js"
+  ]
+}
